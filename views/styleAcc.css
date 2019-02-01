@@ -1,0 +1,13 @@
+.container {
+    margin: 0 auto;
+    text-align: center;
+    padding: 200px;
+}
+
+.header {
+    text-transform: uppercase;
+}
+
+#text {
+    text-transform: capitalize;
+}
